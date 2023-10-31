@@ -29,7 +29,7 @@ export const PrimaryFocus = () => {
                     <h1><FaRegFileCode/></h1>
                 </div>
                 <div className='skillinfo'><h2>Development Solutions</h2>
-                <p>Utilizing JavaScript frameworks like React, Node, Next, Vue and more to build interactive web applications.</p></div>
+                <p>Utilizing JavaScript javascript frameworks like React, Node, Next, Vue and more to build interactive web applications.</p></div>
             </div>
             <div className='card'>
             <div className='icon'>
