@@ -1,0 +1,55 @@
+.PrimaryFocus{
+    width:97%;
+   
+}
+
+.PrimaryFocus h1{
+    text-align: center;
+
+}
+
+.icon{
+    padding:1em;
+}
+.icon h1{
+    font-size: 3em;
+    color:#fedb71;
+}
+.skills{
+    width:100%;
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card{
+    width:47%;
+    height:24vh;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0.5em;
+    display: flex;
+    background-color: #226577;
+    justify-content: space-evenly;
+}
+.skillinfo{
+    width:70%;
+   
+   
+}
+.skillinfo h2{
+    padding:0.5em;
+    font-weight: 700;
+    color:white;
+    font-size: 1.2em;
+}
+.skillinfo p{
+    padding:0.5em;
+    font-weight: 500;
+    color:#91abb2;
+}
+
+
+
+
